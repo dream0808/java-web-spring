@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/dbtest1
     username: root
-    password: 929957466
+    password: xxxxxxxxxxxxx
 
 
   servlet:
@@ -21,8 +21,8 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-beijing.aliyuncs.com
-    accessKeyId: LTAI5tR8cFFC8kUGoRH2io73
-    accessKeySecret: eUIgYIrXMLe0v0InRf81pZPo4SyXxd
+    accessKeyId: xxxxxxxxxxxxx
+    accessKeySecret: xxxxxxxxxxxxx
     bucketName: web-hpy
 
 
