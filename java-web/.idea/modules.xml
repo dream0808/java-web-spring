@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-web.iml" filepath="$PROJECT_DIR$/java-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo/spring-demo.iml" filepath="$PROJECT_DIR$/spring-demo/spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-tlias/springboot-aop/springboot-aop.iml" filepath="$PROJECT_DIR$/springboot-tlias/springboot-aop/springboot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud.iml" filepath="$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-tlias/springboot-tlias.iml" filepath="$PROJECT_DIR$/springboot-tlias/springboot-tlias.iml" />
+    </modules>
+  </component>
+</project>
