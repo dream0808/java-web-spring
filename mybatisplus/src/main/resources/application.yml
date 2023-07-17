@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dbtest1?serverTimezone=UTC&characterEncoding=UTF-8&userSSL=false
+    username: root
+    password: 929957466
+
+
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: auto
+      #  设置统一的主键生成策略
+#      table-prefix: t_
+#  设置实体类所对应的表的统一前缀
+
+#  扫描通用枚举的包
+
+
+
